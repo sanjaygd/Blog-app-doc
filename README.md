@@ -1,3 +1,4 @@
 # Blog-app-doc
-Code with doc
-[Lets got to HackerMake](https://github.com/sanjaygd/Hacker-Make)
+
+1.[Lets got to HackerMake](https://github.com/sanjaygd/Hacker-Make)
+2.
