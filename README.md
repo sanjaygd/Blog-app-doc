@@ -8,6 +8,7 @@
 <a href=https://github.com/sanjaygd/Blog_app-TD-22>6.blog app ch-22</a></br>
 <a href=https://github.com/sanjaygd/Blog_app-TD-23>7.blog app ch-23 Delete function added</a></br>
 <a href=https://github.com/sanjaygd/Blog_app-TD-24>8.blog app ch-24 Templates & Inheritance</a></br>
-<a href=https://github.com/sanjaygd/Blog_app-TD-25>9.blog app ch-24 Static Files</a></br>
+<a href=https://github.com/sanjaygd/Blog_app-TD-25>9.blog app ch-25 Static Files</a></br>
+<a https://github.com/sanjaygd/Blog_app-TD-26>10.blog app ch-26 Imlementing Bootstrap</a></br>
 
 
