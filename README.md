@@ -6,5 +6,8 @@
 <a href=https://github.com/sanjaygd/Blog_app-TD-20>4.blog app ch-20</a></br>
 <a href=https://github.com/sanjaygd/Blog_app-TD-21>5.blog app ch-21</a></br>
 <a href=https://github.com/sanjaygd/Blog_app-TD-22>6.blog app ch-22</a></br>
-<a href=https://github.com/sanjaygd/Blog_app-TD-23>6.blog app ch-23 Delete function added</a></br>
-<a href=https://github.com/sanjaygd/Blog_app-TD-24>6.blog app ch-24 Templates & Inheritance</a></br>
+<a href=https://github.com/sanjaygd/Blog_app-TD-23>7.blog app ch-23 Delete function added</a></br>
+<a href=https://github.com/sanjaygd/Blog_app-TD-24>8.blog app ch-24 Templates & Inheritance</a></br>
+<a href=https://github.com/sanjaygd/Blog_app-TD-25>9.blog app ch-24 Static Files</a></br>
+
+
