@@ -10,5 +10,7 @@
 <a href=https://github.com/sanjaygd/Blog_app-TD-24>8.blog app ch-24 Templates & Inheritance</a></br>
 <a href=https://github.com/sanjaygd/Blog_app-TD-25>9.blog app ch-25 Static Files</a></br>
 <a href=https://github.com/sanjaygd/Blog_app-TD-26>10.blog app ch-26 Imlementing Bootstrap</a></br>
+<a href=https://github.com/sanjaygd/Blog_app-TD-26>11.blog app ch-27 Pagination by queryset</a></br>
+<a href=https://github.com/sanjaygd/Blog_app-TD-28>12.blog app ch-28 File field and Image field</a></br>
 
 
