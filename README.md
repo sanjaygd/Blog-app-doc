@@ -14,6 +14,7 @@
 <a href=https://github.com/sanjaygd/Blog_app-TD-28>12.blog app ch-28 File field and Image field</a></br>
 <a href=https://github.com/sanjaygd/Blog_app-TD-29>12.blog app ch-29 Slug field</a></br>
 <a href=https://github.com/sanjaygd/Blog_app-TD-30>12.blog app ch-30 Slug field</a></br>
+<a href=https://github.com/sanjaygd/Blog_app-TD-31-32>12.blog app ch-30 Template Tag & basic user permission</a></br>
 
 
 
