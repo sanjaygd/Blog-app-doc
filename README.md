@@ -12,9 +12,15 @@
 <a href=https://github.com/sanjaygd/Blog_app-TD-26>10.blog app ch-26 Imlementing Bootstrap</a></br>
 <a href=https://github.com/sanjaygd/Blog_app-TD-26>11.blog app ch-27 Pagination by queryset</a></br>
 <a href=https://github.com/sanjaygd/Blog_app-TD-28>12.blog app ch-28 File field and Image field</a></br>
-<a href=https://github.com/sanjaygd/Blog_app-TD-29>12.blog app ch-29 Slug field</a></br>
-<a href=https://github.com/sanjaygd/Blog_app-TD-30>12.blog app ch-30 Slug field</a></br>
-<a href=https://github.com/sanjaygd/Blog_app-TD-31-32>12.blog app ch-30 Template Tag & basic user permission</a></br>
+<a href=https://github.com/sanjaygd/Blog_app-TD-29>13.blog app ch-29 Slug field</a></br>
+<a href=https://github.com/sanjaygd/Blog_app-TD-30>14.blog app ch-30 Slug field</a></br>
+<a href=https://github.com/sanjaygd/Blog_app-TD-31-32>15.blog app ch-31-32 Template Tag & basic user permission</a></br>
+<a href=https://github.com/sanjaygd/-Blog_App-TD-33>16.blog app ch-33 Assosiate user to Post with foriegn key</a></br>
+<a href=https://github.com/sanjaygd/Blog_App-TD-34>17.blog app ch-34 Using Facebook Like and comments</a></br>
+<a href=https://github.com/sanjaygd/Blog_App-TD-35>18.blog app ch-35 Publish date & draft</a></br>
+
+
+
 
 
 
