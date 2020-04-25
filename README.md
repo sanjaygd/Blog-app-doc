@@ -18,6 +18,7 @@
 <a href=https://github.com/sanjaygd/-Blog_App-TD-33>16.blog app ch-33 Assosiate user to Post with foriegn key</a></br>
 <a href=https://github.com/sanjaygd/Blog_App-TD-34>17.blog app ch-34 Using Facebook Like and comments</a></br>
 <a href=https://github.com/sanjaygd/Blog_App-TD-35>18.blog app ch-35 Publish date & draft</a></br>
+<a href=https://github.com/sanjaygd/Blog_App-TD-36>19.blog app ch-36 Model Manager & Draft feature</a></br>
 
 
 
