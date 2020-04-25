@@ -13,6 +13,7 @@
 <a href=https://github.com/sanjaygd/Blog_app-TD-26>11.blog app ch-27 Pagination by queryset</a></br>
 <a href=https://github.com/sanjaygd/Blog_app-TD-28>12.blog app ch-28 File field and Image field</a></br>
 <a href=https://github.com/sanjaygd/Blog_app-TD-29>12.blog app ch-29 Slug field</a></br>
+<a href=https://github.com/sanjaygd/Blog_app-TD-30>12.blog app ch-30 Slug field</a></br>
 
 
 
